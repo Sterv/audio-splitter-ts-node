@@ -1,0 +1,6 @@
+# exclude audio files and node_modules
+audioInput/*
+audioOutput/*
+
+node_modules/*
+package-lock.json
